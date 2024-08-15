@@ -17,11 +17,13 @@ This project is an Employee Management System built using Java and Swing, design
 ## Setup and Installation
 
 1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/employee-management-system.git
-    ```
+
+   ```bash
+   git clone https://github.com/your-username/employee-management-system.git
+   ```
 
 2. **Open the project**:
+
    - Open IntelliJ IDEA and select "Open" from the welcome screen.
    - Navigate to the project directory and select the project.
 
@@ -31,34 +33,39 @@ This project is an Employee Management System built using Java and Swing, design
 ## How to Use
 
 ### Add Employee
+
 - Click on the "Add Employee" button.
 - Fill in the required employee details.
 - Click "Submit" to save the new employee.
 
 ### View Employees
+
 - Click on the "View Employee" button to display all employees in the system.
 
 ### Update Employee
+
 - Click on the "Update Employee" button.
 - Enter the employee ID of the employee you want to update.
 - Modify the employee details in the form and submit.
 
 ### Remove Employee
+
 - Click on the "Remove Employee" button.
 - Enter the employee ID of the employee you want to remove.
 - Confirm to delete the employee record.
 
 ## File Structure
 
+```plaintext
 /src
-/main
-Home.java # Main entry point of the application
-AddEmployee.java # Handles adding new employees
-ViewEmployee.java # Displays list of employees
-UpdateEmployee.java # Updates an existing employee
-RemoveEmployee.java # Removes an employee from the system
-/resources
-employee_data.json # (Optional) JSON file for storing employee data
+  /main
+    ├── Home.java           # Main entry point of the application
+    ├── AddEmployee.java    # Handles adding new employees
+    ├── ViewEmployee.java   # Displays list of employees
+    ├── UpdateEmployee.java # Updates an existing employee
+    ├── RemoveEmployee.java # Removes an employee from the system
+  /resources
+    └── employee_data.json  # (Optional) JSON file for storing employee data
 
 
 ## Future Enhancements
@@ -74,4 +81,5 @@ Contributions are welcome! Please fork this repository and create a pull request
 
 ## Author
 
-**Syed Muhammad Hussnain Raza [LinkedIn](https://www.linkedin.com/in/syed-muhammad-hussnain-raza)** 
+**Syed Muhammad Hussnain Raza [LinkedIn](https://www.linkedin.com/in/syed-muhammad-hussnain-raza)**
+```
