@@ -66,7 +66,7 @@ This project is an Employee Management System built using Java and Swing, design
     ├── RemoveEmployee.java # Removes an employee from the system
   /resources
     └── employee_data.json  # (Optional) JSON file for storing employee data
-
+```
 
 ## Future Enhancements
 
@@ -82,4 +82,3 @@ Contributions are welcome! Please fork this repository and create a pull request
 ## Author
 
 **Syed Muhammad Hussnain Raza [LinkedIn](https://www.linkedin.com/in/syed-muhammad-hussnain-raza)**
-```
