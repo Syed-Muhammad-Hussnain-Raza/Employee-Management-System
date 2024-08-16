@@ -27,8 +27,16 @@ This project is an Employee Management System built using Java and Swing, design
    - Open IntelliJ IDEA and select "Open" from the welcome screen.
    - Navigate to the project directory and select the project.
 
-3. **Build and Run**:
-   - After opening the project in IntelliJ IDEA, build and run the project using the "Run" option.
+3. **Add external libraries**:
+
+   - We have to add external libraries that are used for proper functioning of our project. These are available in libraries folder.
+
+     1. jcalendar-tz-1.3.3-4
+     2. mysql-connector-java-8.0.28
+     3. rs2xml
+
+4. **Build and Run**:
+   - After adding libraries successfully in project, build and run the project using the "Run" option.
 
 ## How to Use
 
@@ -48,7 +56,7 @@ This project is an Employee Management System built using Java and Swing, design
 - Enter the employee ID of the employee you want to update.
 - Modify the employee details in the form and submit.
 
-### Remove Employee
+### Remove Employee (Incomplete yet)
 
 - Click on the "Remove Employee" button.
 - Enter the employee ID of the employee you want to remove.
