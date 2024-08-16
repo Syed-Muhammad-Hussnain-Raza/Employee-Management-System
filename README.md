@@ -7,7 +7,7 @@ This project is an Employee Management System built using Java and Swing, design
 - **Add Employee**: Allows the user to add a new employee with details like name, age, position, and salary.
 - **View Employees**: Displays a list of all employees with their respective details.
 - **Update Employee**: Enables updating of an existing employee's information by entering the employee ID.
-- **Remove Employee**: Allows the removal of an employee from the system using their employee ID.
+- **Remove Employee**: Allows the removal of an employee from the system using their employee ID. (Incomplete yet)
 
 ## Prerequisites
 
